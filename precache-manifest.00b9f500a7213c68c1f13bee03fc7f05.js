@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03e1e33a20e513ef12fe9de2a09b59ff",
+    "revision": "7bf64fe3f3f9cb3ef4dee69627b7225a",
     "url": "/krypto/index.html"
   },
   {
-    "revision": "3e687693e10c7a181174",
-    "url": "/krypto/static/css/main.c0ce03c2.chunk.css"
+    "revision": "8424ba82c72c47161ff1",
+    "url": "/krypto/static/css/main.91fce0fd.chunk.css"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/krypto/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "3e687693e10c7a181174",
-    "url": "/krypto/static/js/main.549a89e6.chunk.js"
+    "revision": "8424ba82c72c47161ff1",
+    "url": "/krypto/static/js/main.5130bc7d.chunk.js"
   },
   {
     "revision": "27a950f153b96c5b2ec8",

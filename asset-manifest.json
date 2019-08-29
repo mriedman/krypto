@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krypto/static/css/main.c0ce03c2.chunk.css",
-    "main.js": "/krypto/static/js/main.549a89e6.chunk.js",
-    "main.js.map": "/krypto/static/js/main.549a89e6.chunk.js.map",
+    "main.css": "/krypto/static/css/main.91fce0fd.chunk.css",
+    "main.js": "/krypto/static/js/main.5130bc7d.chunk.js",
+    "main.js.map": "/krypto/static/js/main.5130bc7d.chunk.js.map",
     "runtime~main.js": "/krypto/static/js/runtime~main.532c3031.js",
     "runtime~main.js.map": "/krypto/static/js/runtime~main.532c3031.js.map",
     "static/js/2.d6a534e5.chunk.js": "/krypto/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/krypto/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/krypto/index.html",
-    "precache-manifest.4b8e70f2103adeb256fa3608e8093071.js": "/krypto/precache-manifest.4b8e70f2103adeb256fa3608e8093071.js",
+    "precache-manifest.00b9f500a7213c68c1f13bee03fc7f05.js": "/krypto/precache-manifest.00b9f500a7213c68c1f13bee03fc7f05.js",
     "service-worker.js": "/krypto/service-worker.js",
-    "static/css/main.c0ce03c2.chunk.css.map": "/krypto/static/css/main.c0ce03c2.chunk.css.map"
+    "static/css/main.91fce0fd.chunk.css.map": "/krypto/static/css/main.91fce0fd.chunk.css.map"
   }
 }
